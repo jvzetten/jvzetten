@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Power Apps app maker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  - twitter.com/jvzetten
+  - twitter.com/johnvanzetten
 
 <!---
 jvzetten/jvzetten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
